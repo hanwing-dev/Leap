@@ -41,4 +41,4 @@
 
 如果 Leap 帮你少切了几个网页，欢迎给项目点个 Star。遇到识别遗漏、界面问题或想建议一个更顺手的操作，可以在 [Issues](https://github.com/hyx-aero-ai/Leap/issues) 留下平台、版本和复现步骤。
 
-开发者 **Hanyx** · [GitHub](https://github.com/hyx-aero-ai) · [X](https://x.com/han526819930421)
+开发者 **Hanwing** · [GitHub](https://github.com/hyx-aero-ai) · [X](https://x.com/han526819930421)
