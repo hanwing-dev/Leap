@@ -4,10 +4,10 @@
   <p><strong>把学习通和雨课堂的任务，放进一个 Windows 工作台。</strong></p>
   <p>查待办和截止时间、接着看课程视频、接收学习通签到提醒。</p>
   <p>
-    <a href="https://github.com/hyx-aero-ai/Leap/releases/latest"><strong>下载 Windows 版</strong></a>
+    <a href="https://github.com/hanwing-dev/Leap/releases/latest"><strong>下载 Windows 版</strong></a>
     · <a href="GUIDE.md">中文使用手册</a>
     · <a href="HISTORY.md">开发历程</a>
-    · <a href="https://github.com/hyx-aero-ai/Leap/issues">反馈问题</a>
+    · <a href="https://github.com/hanwing-dev/Leap/issues">反馈问题</a>
   </p>
   <p>Windows 10 / 11 · x64 · 支持浅色与深色主题</p>
 </div>
@@ -23,7 +23,7 @@
 
 ## 三步开始
 
-1. 在[最新发行版](https://github.com/hyx-aero-ai/Leap/releases/latest)下载 Windows x64 的 MSI。需要 Microsoft Edge WebView2 Runtime，安装包同时提供 SHA-256 校验文件。
+1. 在[最新发行版](https://github.com/hanwing-dev/Leap/releases/latest)下载 Windows x64 的 MSI。需要 Microsoft Edge WebView2 Runtime，安装包同时提供 SHA-256 校验文件。
 2. 安装后打开 Leap，进入 **设置 → 平台登录**，登录你正在使用的教学平台。
 3. 回到 **作业列表 → 刷新作业列表**，切换平台查看结果。想接着看课，从左侧进入「刷课」并选一门课程。
 
@@ -39,6 +39,6 @@
 
 项目最早叫 AI Homework Assistant，随后更名为 courseX，最终成为 Leap。正式版从 **1.0.0** 开始，旧版保留原编号并标注为 Beta。可以在[开发历程](HISTORY.md)查看每个阶段和可下载的历史构建。
 
-如果 Leap 帮你少切了几个网页，欢迎给项目点个 Star。遇到识别遗漏、界面问题或想建议一个更顺手的操作，可以在 [Issues](https://github.com/hyx-aero-ai/Leap/issues) 留下平台、版本和复现步骤。
+如果 Leap 帮你少切了几个网页，欢迎给项目点个 Star。遇到识别遗漏、界面问题或想建议一个更顺手的操作，可以在 [Issues](https://github.com/hanwing-dev/Leap/issues) 留下平台、版本和复现步骤。
 
-开发者 **Hanwing** · [GitHub](https://github.com/hyx-aero-ai) · [X](https://x.com/han526819930421)
+开发者 **Hanwing** · [GitHub](https://github.com/hanwing-dev) · [X](https://x.com/han526819930421)
