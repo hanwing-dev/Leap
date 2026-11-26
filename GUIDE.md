@@ -4,7 +4,7 @@ Leap 是 Hanwing 开发的 Windows 学习工作台。作业列表、课程视频
 
 ## 下载与安装
 
-1. 从 [Releases](https://github.com/hyx-aero-ai/Leap/releases) 下载 `Leap_1.0.0_windows-x64.msi`。需要 Windows 10 或 11（64 位）以及 Microsoft Edge WebView2 Runtime。若电脑缺少 WebView2，请先从 [Microsoft 官网](https://developer.microsoft.com/microsoft-edge/webview2/)安装。
+1. 从 [Releases](https://github.com/hanwing-dev/Leap/releases) 下载 `Leap_1.0.0_windows-x64.msi`。需要 Windows 10 或 11（64 位）以及 Microsoft Edge WebView2 Runtime。若电脑缺少 WebView2，请先从 [Microsoft 官网](https://developer.microsoft.com/microsoft-edge/webview2/)安装。
 2. 可先在下载目录打开 PowerShell，运行 `Get-FileHash .\Leap_1.0.0_windows-x64.msi -Algorithm SHA256`，将输出和本次发布附带的 `SHA256.txt` 对照。SHA-256 可用于验证下载的文件是否一致。MSI 未签名，Windows 可能显示未知发布者。
 3. 双击 MSI，完成后在开始菜单搜索 **Leap**。若之前安装了 Beta，升级前先退出旧版，并在 **设置 → 数据备份**导出备份。设置、登录状态和缓存取决于旧版使用的数据目录和本机账号，若未继承请重新登录。
 
@@ -38,6 +38,6 @@ Leap 是 Hanwing 开发的 Windows 学习工作台。作业列表、课程视频
 - **视图**可切换浅色与深色。**设置 → 桌面与窗口**可调整关窗行为、动效强度和减少动态效果。开启减少动态效果后，动效档位的位移效果停用。
 - **设置 → 数据备份**可导出和恢复数据。API Key 由当前 Windows 用户加密保存，备份不含密钥。在另一台电脑恢复后，请重新登录并填写 Key。
 - 扫描为空时，先确认平台、课程和筛选条件，再看扫描详情。截止时间待核对时，仍可在「全部」或「待核对」查看任务。教学平台改版、会话过期或网络异常都可能影响扫描。
-- 首次公开版的验收范围见发行说明。遇到问题可在 [GitHub Issues](https://github.com/hyx-aero-ai/Leap/issues)反馈，附上版本、Windows 版本、复现步骤和脱敏截图。请勿附上密码、API Key、登录二维码或未脱敏的课程与考卷信息。
+- 首次公开版的验收范围见发行说明。遇到问题可在 [GitHub Issues](https://github.com/hanwing-dev/Leap/issues)反馈，附上版本、Windows 版本、复现步骤和脱敏截图。请勿附上密码、API Key、登录二维码或未脱敏的课程与考卷信息。
 
-制作者 **Hanwing** · [GitHub](https://github.com/hyx-aero-ai) · [X](https://x.com/han526819930421)
+制作者 **Hanwing** · [GitHub](https://github.com/hanwing-dev) · [X](https://x.com/han526819930421)
