@@ -1,6 +1,6 @@
 # Leap 使用手册
 
-Leap 是 Hanyx 开发的 Windows 学习工作台。作业列表、课程视频、签到提醒和平台登录集中在一个窗口。正式版本从 **1.0.0** 开始。此前以 AI Homework Assistant、courseX 和 Leap 命名的构建在[开发历程](HISTORY.md)中保留原版本号和 Beta 标记。
+Leap 是 Hanwing 开发的 Windows 学习工作台。作业列表、课程视频、签到提醒和平台登录集中在一个窗口。正式版本从 **1.0.0** 开始。此前以 AI Homework Assistant、courseX 和 Leap 命名的构建在[开发历程](HISTORY.md)中保留原版本号和 Beta 标记。
 
 ## 下载与安装
 
@@ -40,4 +40,4 @@ Leap 是 Hanyx 开发的 Windows 学习工作台。作业列表、课程视频�
 - 扫描为空时，先确认平台、课程和筛选条件，再看扫描详情。截止时间待核对时，仍可在「全部」或「待核对」查看任务。教学平台改版、会话过期或网络异常都可能影响扫描。
 - 首次公开版的验收范围见发行说明。遇到问题可在 [GitHub Issues](https://github.com/hyx-aero-ai/Leap/issues)反馈，附上版本、Windows 版本、复现步骤和脱敏截图。请勿附上密码、API Key、登录二维码或未脱敏的课程与考卷信息。
 
-制作者 **Hanyx** · [GitHub](https://github.com/hyx-aero-ai) · [X](https://x.com/han526819930421)
+制作者 **Hanwing** · [GitHub](https://github.com/hyx-aero-ai) · [X](https://x.com/han526819930421)
